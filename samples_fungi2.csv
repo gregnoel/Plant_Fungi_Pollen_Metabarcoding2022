@@ -1,0 +1,43 @@
+sample_name;Map_site;site;month;month2;nbr_read_fungi;nbr_species_fungi;urbanised_area;season;sample_name2
+Canada-2;Toronto-4;Fairmont Hotel;August;8;6700;11; 0.758;Summer;Canada-2
+Canada-3;Toronto-4;Fairmont Hotel;September;9;9443;17; 0.758;Autumn;Canada-3
+Canada-4;Toronto-6;Toronto Botanical Gardens;May;5;1625;2;0.2535;Spring;Canada-4
+Canada-5;Toronto-6;Toronto Botanical Gardens;June;6;17653;5;0.2535;Summer;Canada-5
+Canada-6;Toronto-6;Toronto Botanical Gardens;July;7;4472;11;0.2535;Summer;Canada-6
+Canada-7;Toronto-6;Toronto Botanical Gardens;August;8;14320;12;0.2535;Summer;Canada-7
+Canada-8;Toronto-6;Toronto Botanical Gardens;September;9;78850;4;0.2535;Autumn;Canada-8
+Canada-9;York-3;C-Farm;June;6;35181;3;0.0543;Summer;Canada-9
+Canada-10;York-3;C-Farm;July;7;4725;3;0.0543;Summer;Canada-10
+Canada-11;York-3;C-Farm;August;8;2480;6;0.0543;Summer;Canada-11
+Canada-12;York-3;C-Farm;September;9;73089;6;0.0543;Autumn;Canada-12
+Canada-13;Toronto-2;Black Creek Pioneer;June;6;30706;4;0.442;Summer;Canada-13
+Canada-14;Toronto-2;Black Creek Pioneer;July;7;13985;5;0.442;Summer;Canada-14
+Canada-15;Toronto-2;Black Creek Pioneer;September;9;5983;4;0.442;Autumn;Canada-15
+Canada-16;York-2;IBM;July;7;21605;6;0.5426;Summer;Canada-16
+Canada-17;York-2;IBM;August;8;4544;8;0.5426;Summer;Canada-17
+Canada-18;York-2;IBM;September;9;30175;5;0.5426;Autumn;Canada-18
+Canada-19;York-1;Meadow Sweet;May;5;41080;5;0.0543;Spring;Canada-19
+Canada-20;York-1;Meadow Sweet;July;7;2444;5;0.0543;Summer;Canada-20
+Canada-21;Toronto-5;Ontario Science Centre;May;5;14377;5;0.2778;Spring;Canada-21
+Canada-22;Toronto-5;Ontario Science Centre;June;6;29918;1;0.2778;Summer;Canada-22
+Canada-23;Toronto-5;Ontario Science Centre;July;7;35525;6;0.2778;Summer;Canada-23
+Canada-24;Toronto-5;Ontario Science Centre;August;8;42965;8;0.2778;Summer;Canada-24
+Canada-25;Toronto-5;Ontario Science Centre;September;9;33326;13;0.2778;Autumn;Canada-25
+Canada-26;Peel-3;Mississauga;June;6;30563;7;0.33;Summer;Canada-26
+Canada-27;Peel-3;Mississauga;July;7;9878;9;0.33;Summer;Canada-27
+Canada-28;Peel-3;Mississauga;August;8;46435;4;0.33;Summer;Canada-28
+Canada-29;Toronto-7;UTSC;May;5;70287;2;0.3145;Spring;Canada-29
+Canada-30;Toronto-7;UTSC;June;6;64533;2;0.3145;Summer;Canada-30
+Canada-31;Toronto-7;UTSC;July;7;38585;2;0.3145;Summer;Canada-31
+Canada-33;Peel-2;Caledon;June;6;55054;3;0.0125;Summer;Canada-33
+Canada-34;Peel-2;Caledon;July;7;12780;8;0.0125;Summer;Canada-34
+Canada-35;Peel-2;Caledon;August;8;7455;5;0.0125;Summer;Canada-35
+Canada-36;Toronto-3;Downsview;May;5;19316;3;0.4496;Spring;Canada-36
+Canada-37;Toronto-3;Downsview;June;6;31105;12;0.4496;Summer;Canada-37
+Canada-38;Toronto-3;Downsview;July;7;9141;8;0.4496;Summer;Canada-38
+Canada-39;Toronto-1;Black Creek Farm;May;5;11909;2;0.4419;Spring;Canada-39
+Canada-40;Toronto-1;Black Creek Farm;June;6;3812;4;0.4419;Summer;Canada-40
+Canada-41;Toronto-1;Black Creek Farm;July;7;80854;4;0.4419;Summer;Canada-41
+Canada-42;Peel-1;Airport;July;7;28090;7;0.4573;Summer;Canada-42
+Canada-43;Peel-1;Airport;August;8;72644;5;0.4573;Summer;Canada-43
+Canada-44;Peel-1;Airport;September;9;38877;7;0.4573;Autumn;Canada-44
